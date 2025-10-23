@@ -43,7 +43,7 @@ To create a 3D model from given orthographic projection.
 ## OUTPUT:
 
 
-![AUTODESK 5_page-0001](https://github.com/user-attachments/assets/edc1be28-fac6-4567-a157-9d66e3a68e06)
+![PRANAV AUTODESK 555555_page-0001](https://github.com/user-attachments/assets/d611fe05-e565-4eab-8f6e-08b3bc7ab5b8)
 
 ## RESULT:
 Thus, 3D model is created from orthographic projection.
